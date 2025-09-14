@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuegoCriatura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55b0c3bce83f93e6f270e6817ee491d100216689")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a155f8c0102969939627da8d7405285e192700cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuegoCriatura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuegoCriatura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
